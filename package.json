@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/pdxbellasaurus/UofO13ormEcommerceBackend.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "pdxbellasaurus",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
