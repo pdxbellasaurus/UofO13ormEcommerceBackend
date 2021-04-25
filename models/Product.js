@@ -40,7 +40,6 @@ Product.init(
     category_id: {
       type: DataTypes.INTEGER,
       allowNull: true,
-      //Fk
       references: {
         model: 'category',
         key: 'id'
