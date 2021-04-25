@@ -10,10 +10,12 @@ npm start
 ```
 
 ## Back-end Startup and Functionality
+:movie_camera:
+#### [Walkthrough video that demonstrates creating the schema from the MySQL Workbench]()
 
-#### Walkthrough video that demonstrates the startup and functionality:
+#### [Walkthrough video that demonstrates how to seed the database and how to start the application’s server from the command line]()
 
-:movie_camera: [Walkthrough video that demonstrates startup (including seeding database) the application's functionality](http://placebear.com/g/200/500)
+#### [Walkthrough video that demonstrates all GET, POST, PUT and DELETE routes using Insomnia Core]()
 
 -----------------------
 Week 13 Homework - UofO13ormEcommerceBackend
