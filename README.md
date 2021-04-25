@@ -1,10 +1,7 @@
 # Object-Relational Mapping (ORM): E-Commerce Back End 
-
-
-
 ## Overview
 
-The command line application uses 
+Back end for an e-commerce site , modified from starter code and configured to a working Express.js API to use Sequelize to interact with a MySQL database.
 
 The Employee Tracker application is invoked by using the following command:
 
@@ -12,21 +9,11 @@ The Employee Tracker application is invoked by using the following command:
 npm start
 ```
 
-## Application Appearance
+## Back-end Startup and Functionality
 
-:camera: [!Screensnip of the application's appearance](http://placebear.com/g/200/300)
+#### Walkthrough video that demonstrates the startup and functionality:
 
-## Application Functionality
-
-
-
-#### Walkthrough video that demonstrates the application's functionality:
-
-:movie_camera: [Walkthrough video that demonstrates tha application's functionality](http://placebear.com/g/200/500)
-
-## Resources
-
-
+:movie_camera: [Walkthrough video that demonstrates startup (including seeding database) the application's functionality](http://placebear.com/g/200/500)
 
 -----------------------
 Week 13 Homework - UofO13ormEcommerceBackend
